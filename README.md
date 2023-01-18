@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on LARAVEL
+- 🔭 I’m currently working on YII2, LARAVEL
 - 🌱 I’m currently learning GOLANG
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with understanding of the universe
